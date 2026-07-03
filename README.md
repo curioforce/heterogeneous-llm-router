@@ -5,7 +5,7 @@ This is a working sample / simulator on how to route LLM requests to either Appl
 
 Created with ChatGPT - GPT-5.5 Thinking
 
-(C)Curioforce Corporation 2026/7/4
+(C) Curioforce Corporation 2026/7/4
 https://www.curioforce.com
 
 This package includes:
