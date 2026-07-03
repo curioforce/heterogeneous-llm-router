@@ -1,6 +1,7 @@
 # LLM Hardware Router
 
 A reference Python project that automatically chooses an LLM model and routes the request to either Apple Silicon based nodes or NVIDIA GPU based nodes.
+This is a working sample / simulator on how to route LLM requests to either Apple Silicon based nodes or NVIDIA GPU based nodes.
 
 This package includes:
 
