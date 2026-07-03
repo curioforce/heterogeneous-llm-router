@@ -3,6 +3,11 @@
 A reference Python project that automatically chooses an LLM model and routes the request to either Apple Silicon based nodes or NVIDIA GPU based nodes.
 This is a working sample / simulator on how to route LLM requests to either Apple Silicon based nodes or NVIDIA GPU based nodes.
 
+Created with ChatGPT - GPT-5.5 Thinking
+
+(C)Curioforce Corporation 2026/7/4
+https://www.curioforce.com
+
 This package includes:
 
 - `llm_router.py` - FastAPI router that auto-selects model and backend hardware
